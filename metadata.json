@@ -1,0 +1,11 @@
+{
+  "name": "Remix: ClingDoc Prototype",
+  "description": "Healthcare staffing \u0026 credential verification platform with doctor availability, job posting, smart matching, document verification, and attendance check-in.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
